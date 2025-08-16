@@ -1,0 +1,121 @@
+[15-Aug-2025 05:50:50 Europe/Berlin] PHP Fatal error:  Cannot redeclare executeQuery() (previously declared in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\conexion.php:63) in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\conexion.php on line 63
+[15-Aug-2025 06:00:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "URL_BASE" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php:14
+Stack trace:
+#0 C:\Users\espin\Desktop\dato\htdocs\insectos_excel\galeria.php(70): require()
+#1 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php on line 14
+[15-Aug-2025 06:00:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "URL_BASE" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php:14
+Stack trace:
+#0 C:\Users\espin\Desktop\dato\htdocs\insectos_excel\galeria.php(70): require()
+#1 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php on line 14
+[15-Aug-2025 06:00:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "URL_BASE" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php:14
+Stack trace:
+#0 C:\Users\espin\Desktop\dato\htdocs\insectos_excel\galeria.php(70): require()
+#1 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php on line 14
+[15-Aug-2025 06:00:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "URL_BASE" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php:14
+Stack trace:
+#0 C:\Users\espin\Desktop\dato\htdocs\insectos_excel\galeria.php(70): require()
+#1 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php on line 14
+[15-Aug-2025 06:00:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "URL_BASE" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php:14
+Stack trace:
+#0 C:\Users\espin\Desktop\dato\htdocs\insectos_excel\galeria.php(70): require()
+#1 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php on line 14
+[15-Aug-2025 06:00:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "URL_BASE" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php:14
+Stack trace:
+#0 C:\Users\espin\Desktop\dato\htdocs\insectos_excel\galeria.php(70): require()
+#1 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php on line 14
+[15-Aug-2025 06:00:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "URL_BASE" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php:14
+Stack trace:
+#0 C:\Users\espin\Desktop\dato\htdocs\insectos_excel\galeria.php(70): require()
+#1 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php on line 14
+[15-Aug-2025 06:00:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "URL_BASE" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php:14
+Stack trace:
+#0 C:\Users\espin\Desktop\dato\htdocs\insectos_excel\galeria.php(70): require()
+#1 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php on line 14
+[15-Aug-2025 06:00:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "URL_BASE" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php:14
+Stack trace:
+#0 C:\Users\espin\Desktop\dato\htdocs\insectos_excel\galeria.php(70): require()
+#1 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php on line 14
+[15-Aug-2025 06:00:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "URL_BASE" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php:14
+Stack trace:
+#0 C:\Users\espin\Desktop\dato\htdocs\insectos_excel\galeria.php(70): require()
+#1 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php on line 14
+[15-Aug-2025 06:00:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "URL_BASE" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php:14
+Stack trace:
+#0 C:\Users\espin\Desktop\dato\htdocs\insectos_excel\galeria.php(70): require()
+#1 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php on line 14
+[15-Aug-2025 06:00:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "URL_BASE" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php:14
+Stack trace:
+#0 C:\Users\espin\Desktop\dato\htdocs\insectos_excel\galeria.php(70): require()
+#1 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php on line 14
+[15-Aug-2025 06:00:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "URL_BASE" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php:14
+Stack trace:
+#0 C:\Users\espin\Desktop\dato\htdocs\insectos_excel\galeria.php(70): require()
+#1 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php on line 14
+[15-Aug-2025 06:00:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "URL_BASE" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php:14
+Stack trace:
+#0 C:\Users\espin\Desktop\dato\htdocs\insectos_excel\formulario.php(519): require()
+#1 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php on line 14
+[15-Aug-2025 06:00:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "URL_BASE" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php:14
+Stack trace:
+#0 C:\Users\espin\Desktop\dato\htdocs\insectos_excel\galeria.php(70): require()
+#1 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php on line 14
+[15-Aug-2025 06:02:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "URL_BASE" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php:14
+Stack trace:
+#0 C:\Users\espin\Desktop\dato\htdocs\insectos_excel\admin\sugerencias.php(111): require()
+#1 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\footer.php on line 14
+[15-Aug-2025 15:33:58 Europe/Berlin] Error de conexión a la BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[15-Aug-2025 15:33:59 Europe/Berlin] Error de conexión a la BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[15-Aug-2025 15:33:59 Europe/Berlin] Error de conexión a la BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[15-Aug-2025 15:34:00 Europe/Berlin] Error de conexión a la BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[15-Aug-2025 15:34:00 Europe/Berlin] Error de conexión a la BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[15-Aug-2025 15:34:00 Europe/Berlin] Error de conexión a la BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[15-Aug-2025 15:34:00 Europe/Berlin] Error de conexión a la BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[15-Aug-2025 15:34:01 Europe/Berlin] Error de conexión a la BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[15-Aug-2025 15:34:01 Europe/Berlin] Error de conexión a la BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[15-Aug-2025 15:34:01 Europe/Berlin] Error de conexión a la BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[15-Aug-2025 15:34:01 Europe/Berlin] Error de conexión a la BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[15-Aug-2025 15:35:11 Europe/Berlin] Error de conexión a la BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[15-Aug-2025 15:35:12 Europe/Berlin] Error de conexión a la BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[15-Aug-2025 15:35:12 Europe/Berlin] Error de conexión a la BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[15-Aug-2025 15:35:12 Europe/Berlin] Error de conexión a la BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[15-Aug-2025 15:35:12 Europe/Berlin] Error de conexión a la BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[15-Aug-2025 15:35:12 Europe/Berlin] Error de conexión a la BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+[15-Aug-2025 16:41:46 Europe/Berlin] PHP Warning:  Undefined array key "user_role" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\formulario.php on line 29
+[15-Aug-2025 22:34:46 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\espin\Desktop\dato\htdocs\insectos_excel\header.php:107) in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\perfil.php on line 64
+[15-Aug-2025 23:15:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "newComment" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\index.php:104
+Stack trace:
+#0 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\index.php on line 104
+[15-Aug-2025 23:15:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "newComment" in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\index.php:104
+Stack trace:
+#0 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\index.php on line 104
+[15-Aug-2025 23:32:39 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\espin\Desktop\dato\htdocs\insectos_excel\header.php:96) in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\guias.php on line 52
+[15-Aug-2025 23:53:18 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\espin\Desktop\dato\htdocs\insectos_excel\header.php:96) in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\sugerencias.php on line 31
+[15-Aug-2025 23:57:03 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\espin\Desktop\dato\htdocs\insectos_excel\header.php:96) in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\admin\sugerencias.php on line 25
+[16-Aug-2025 00:00:42 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\espin\Desktop\dato\htdocs\insectos_excel\header.php:96) in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\reportar.php on line 39
+[16-Aug-2025 00:01:54 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\espin\Desktop\dato\htdocs\insectos_excel\header.php:96) in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\reportar.php on line 39
+[16-Aug-2025 00:35:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function time_elapsed_string() in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\header.php:128
+Stack trace:
+#0 C:\Users\espin\Desktop\dato\htdocs\insectos_excel\admin\reportes.php(49): require()
+#1 {main}
+  thrown in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\header.php on line 128
+[16-Aug-2025 00:36:24 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\espin\Desktop\dato\htdocs\insectos_excel\header.php:96) in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\notificaciones.php on line 25
+[16-Aug-2025 00:40:13 Europe/Berlin] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\contacto.php on line 48
+[16-Aug-2025 00:40:13 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\espin\Desktop\dato\htdocs\insectos_excel\header.php:115) in C:\Users\espin\Desktop\dato\htdocs\insectos_excel\contacto.php on line 55

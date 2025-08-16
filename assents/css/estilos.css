@@ -1,0 +1,141 @@
+/* =================================================================== */
+/* == HOJA DE ESTILOS PERSONALIZADA - ENCICLOPEDIA DE ARTRÓPODOS == */
+/* =================================================================== */
+
+/* --- 1. IDENTIDAD VISUAL: PALETA DE COLORES Y FUENTES --- */
+:root {
+    --bs-primary: #2d5a27;      /* Verde oscuro principal */
+    --bs-secondary: #6c757d;   /* Gris secundario */
+    --bs-success: #27ae60;     /* Verde éxito */
+    --bs-info: #8fbc8f;        /* Verde claro informativo */
+    --bs-warning: #f39c12;     /* Amarillo advertencia */
+    --bs-danger: #e74c3c;       /* Rojo peligro */
+    --bs-light: #f8f9fa;       /* Fondo claro */
+    --bs-dark: #2c3e50;        /* Texto oscuro / Fondos oscuros */
+    
+    /* Fuentes personalizadas */
+    --font-sans-serif: 'Inter', sans-serif;
+    --font-serif: 'Merriweather', serif;
+}
+
+body {
+    font-family: var(--font-sans-serif);
+    background-color: var(--bs-light);
+    color: var(--bs-dark);
+    /* Espacio superior para la barra de navegación fija */
+    padding-top: 70px; 
+}
+
+/* --- 2. ESTILOS DE NAVEGACIÓN Y AVATAR --- */
+
+.navbar {
+    transition: background-color 0.3s ease;
+}
+
+.navbar-brand .fw-bold {
+    font-family: var(--font-serif);
+}
+
+/* === ESTILOS CLAVE PARA EL AVATAR EN LA BARRA DE NAVEGACIÓN === */
+/* Estilo para la imagen de avatar subida */
+.nav-avatar {
+    width: 32px;       /* Ancho fijo */
+    height: 32px;      /* Alto fijo */
+    border-radius: 50%; /* Lo hace perfectamente redondo */
+    object-fit: cover; /* Asegura que la imagen cubra el espacio sin deformarse */
+    border: 2px solid var(--bs-success);
+}
+/* Estilo para el círculo con la inicial (cuando no hay imagen) */
+.nav-avatar-initial {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: var(--bs-success);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* --- 3. ESTILOS DE COMPONENTES PRINCIPALES --- */
+
+/* Títulos de página */
+.display-5 {
+    font-family: var(--font-serif);
+    font-weight: 700;
+}
+
+/* Tarjetas (Cards) */
+.card {
+    border: none;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.07);
+}
+
+/* Acordeón de Bootstrap 5 */
+.accordion-item {
+    border: none;
+    border-radius: 0.5rem !important;
+    margin-bottom: 1rem;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.07);
+}
+.accordion-button {
+    font-weight: bold;
+    color: var(--bs-dark);
+}
+.accordion-button:not(.collapsed) {
+    background-color: var(--bs-primary);
+    color: white;
+}
+.accordion-button:focus {
+    box-shadow: 0 0 0 0.25rem rgba(45, 90, 39, 0.25);
+}
+
+/* --- 4. PÁGINA DE PERFIL (ESTILOS SIMPLIFICADOS) --- */
+
+/* === ESTILOS CLAVE PARA EL AVATAR EN LA PÁGINA DE PERFIL === */
+.profile-avatar {
+    width: 120px; 
+    height: 120px; 
+    border-radius: 50%; 
+    object-fit: cover;
+    border: 4px solid var(--bs-success);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+.profile-avatar-initial {
+    width: 120px; 
+    height: 120px; 
+    border-radius: 50%; 
+    background-color: var(--bs-success); 
+    color: white;
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    font-size: 3.5rem; 
+    font-weight: bold;
+}
+
+/* --- 5. MEJORAS DE EXPERIENCIA DE USUARIO (UX) --- */
+
+/* Estado vacío */
+.empty-state {
+    text-align: center;
+    padding: 60px 30px;
+    background-color: #fff;
+    border: 2px dashed #e0e0e0;
+    border-radius: 8px;
+}
+.empty-state .bi {
+    font-size: 4rem;
+    color: var(--bs-primary);
+    opacity: 0.5;
+    margin-bottom: 1rem;
+}
+
+/* Botones con mejor feedback */
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
